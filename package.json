@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huzaifa2557/TODO-APP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huzaifa2557/TODO-APP/issues"
+  },
+  "homepage": "https://github.com/Huzaifa2557/TODO-APP#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
